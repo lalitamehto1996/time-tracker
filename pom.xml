@@ -11,6 +11,7 @@
     </description>
     <inceptionYear>2017</inceptionYear>
     <url>http://taylor.training/</url>
+<dependency>       <groupId>xml-apis</groupId>       <artifactId>xml-apis</artifactId>       <version>1.4.01</version>       <scope>compile</scope>     </dependency>
 
     <properties>
         <spring.version>5.0.2.RELEASE</spring.version>
