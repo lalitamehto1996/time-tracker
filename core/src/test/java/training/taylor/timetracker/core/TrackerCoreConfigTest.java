@@ -14,9 +14,9 @@ import java.util.List;
 /**
  * Created by Jason on 6/20/2015.
  */
-//@RunWith(SpringJUnit4ClassRunner.class)
-//@ContextConfiguration(classes = TrackerCoreConfig.class)
-/*public class TrackerCoreConfigTest {
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(classes = TrackerCoreConfig.class)
+public class TrackerCoreConfigTest {
 
     @Autowired
     List<TimeEntry> entries;
@@ -26,4 +26,4 @@ import java.util.List;
         assertNotNull(entries);
     }
 
-}*/
+}
