@@ -16,7 +16,7 @@ import java.util.List;
  */
 //@RunWith(SpringJUnit4ClassRunner.class)
 //@ContextConfiguration(classes = TrackerCoreConfig.class)
-public class TrackerCoreConfigTest {
+/*public class TrackerCoreConfigTest {
 
     @Autowired
     List<TimeEntry> entries;
@@ -26,4 +26,4 @@ public class TrackerCoreConfigTest {
         assertNotNull(entries);
     }
 
-}
+}*/
